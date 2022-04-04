@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronin-sec&theme=merko&show_icons=true)
+![Antero's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronin-sec&theme=merko&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/ronin-sec/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
