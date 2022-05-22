@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antero Avalos</h1>
-<h3 align="center">Solution-building, software engineering, head-scratching, happy guy. Let's get stuff done.</h3>
+<h3 align="center">I'm a software engineer looking for a developer role that will make a positive impact on the world. Looking for someone with skill, passion, and discipline? Look no further :sunglasses: </h3>
 
 - 🔭 I’m currently working on [SONAR](https://github.com/anteroa/SONAR)
 
