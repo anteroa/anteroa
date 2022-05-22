@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antero Avalos</h1>
-<h3 align="center">I'm a software engineer building a better world through my work. Looking for someone with skill, passion, and discipline? Look no further :sunglasses: </h3>
+<h3 align="center">Solution-building, software engineering, head-scratching, happy guy. Let's get stuff done.</h3>
 
 - 🔭 I’m currently working on [SONAR](https://github.com/anteroa/SONAR)
 
@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@_ronin01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_ronin01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anteroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anteroa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
