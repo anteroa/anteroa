@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **https://twitter.com/_ronin01**
 
-URL:https://www.codewars.com/users/ronin-sec/badges/large
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
