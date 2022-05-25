@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Antero Avalos</h1>
+<p align="center">
+  <img src="https://github.com/anteroa/anteroa/blob/main/hello.gif">
+</p>
+
 <h3 align="center">I'm a software engineer building a better world through my work. Looking for someone with skill, passion, and discipline? Look no further :sunglasses:</h3>
 
 - 🔭 I’m currently working on [SONAR](https://github.com/anteroa/SONAR)
