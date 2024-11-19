@@ -1,14 +1,14 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/anteroa/anteroa/blob/main/hiya.gif">
-</p>
+</p>-->
 
-- 🔭 Was working on [SONAR](https://github.com/anteroa/SONAR)
+<!-- - 🔭 Was working on [SONAR](https://github.com/anteroa/SONAR) -->
 
-- 🌱 Currently learning **Node.js**
+<!-- - 🌱 Currently building  **Node.js** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/anteroa](https://github.com/anteroa)
 
-- 📫 How to reach me **https://twitter.com/_ronin01**
+<!-- - 📫 How to reach me **[https://bsky.app/profile/goldcoast-ops.bsky.social](goldcoast-ops.bsky.social)** -->
 
 
 <h3 align="left">Connect with me:</h3>
